@@ -1,2 +1,4 @@
 # Rubiks-Cube-Simulator
-Command-line implementation of 2x2 and 3x3 Rubik's Cube
+Command-line implementation of a 2x2 and 3x3 Rubik's Cube!
+
+<img src="cmd-example.jpg" width="50%">
