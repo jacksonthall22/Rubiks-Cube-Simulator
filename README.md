@@ -1,7 +1,7 @@
 # Rubiks Cube Simulator
 
 <img src="cmd-example.jpg" width="75%">
-<figcaption><i>*Command-line implementation of a 2x2 and 3x3 Rubik's Cube</i></figcaption>
+<figcaption><i>Command-line implementation of a 2x2 and 3x3 Rubik's Cube</i></figcaption>
 
 ### How to Use
 Navigate to the project directory in the command line, then run
