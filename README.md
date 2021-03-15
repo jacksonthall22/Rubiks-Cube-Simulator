@@ -7,10 +7,6 @@ Command-line implementation of a 2x2 and 3x3 Rubik's Cube
 Navigate to the project directory in the command line, then run
 `python3 rubiks.py`
 
-See [here](https://en.wikipedia.org/wiki/Rubik%27s_Cube#Move_notation) for a full description
-of Singmaster notation for recording moves, used in this program to change the state of the cube.
-
-
 To manipulate the cube, the program uses 
 [Sigmaster notation](https://en.wikipedia.org/wiki/Rubik%27s_Cube#Move_notation). Here's an
 overview of the most common letters:
